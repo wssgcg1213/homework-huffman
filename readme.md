@@ -1,5 +1,7 @@
 # 多媒体技术基础课 小作业2 哈弗曼编码
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wssgcg1213/homework-huffman.svg)](https://greenkeeper.io/)
+
 this is a  (fake) private repo
 
 ## startup
